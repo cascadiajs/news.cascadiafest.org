@@ -1,0 +1,17 @@
+<ul class="pager">
+	{% if page.next %}
+	<li class="next">
+		<a href="{{ page.next.url }}" title="next">
+			{{ page.next.title }} <i class="fa fa-arrow-right"></i>
+		</a>
+	</li>
+	{% endif %}
+
+	{% if page.previous %}
+	<li class="previous">
+		<a href="{{ page.previous.url }}">
+			<i class="fa fa-arrow-left"></i> {{ page.previous.title }}
+		</a>
+	</li>
+	{% endif %}
+</ul>
