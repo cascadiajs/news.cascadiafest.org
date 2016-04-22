@@ -24,7 +24,7 @@ layout: default
         <h1 class="page-title">Latest News</h1>
 
         <ul class="post-list">
-          {% for post in site.posts %}
+          {% for post in site.posts limit:5 %}
             <li class="{% for c in post.categories %}post-cat-{{c}}{% endfor %}">
               <h3>
                 <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
@@ -33,7 +33,7 @@ layout: default
               <p class="post-meta">
                 <span class="date">{{ post.date | date: "%b %-d, %Y" }}</span>
                 {% for category in post.categories %}
-                  <a href="/{{ category }}/posts/" class="btn btn-xs btn-default">{{ category }}</a>
+                  <a href="/{{ category }}/news/" class="btn btn-xs btn-default">{{ category }}</a>
                 {% endfor %}
               </p>
 

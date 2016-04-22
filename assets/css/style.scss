@@ -25,6 +25,12 @@ $navbar-margin-bottom: 0;
 $navbar-default-border: transparent;
 $navbar-default-link-active-color: white;
 $navbar-default-link-active-bg: lighten($green-dark, 10%);
+$navbar-default-toggle-hover-bg: $navbar-default-link-active-bg;
+
+$media-query-xs: "only screen and (min-width : 300px)";
+$media-query-sm: "only screen and (min-width : 768px)";
+$media-query-md: "only screen and (min-width : 992px)";
+$media-query-lg: "only screen and (min-width : 1200px)";
 
 @import '_bootstrap/_bootstrap';
 
@@ -34,12 +40,33 @@ body {
   flex-direction: column;
 }
 
+@media #{$media-query-md} {
+	.container-fluid {
+		max-width: 99rem;
+		margin: 0;
+	}
+}
+
+#hero .container-fluid {
+	margin: 0 auto;
+	max-width: none;
+}
+
 main {
 	flex: 1;
 }
 
 .navbar {
 	border-radius: 0;
+
+	&-header {
+		color: $navbar-default-link-color;
+	}
+}
+
+.navbar-toggle {
+	padding: 7px 8px;
+	font-size: 1.2rem;
 }
 
 .thin {
