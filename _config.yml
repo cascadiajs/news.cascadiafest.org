@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   CascadiaFest is a three-day, community-driven conference on the cutting
   edge of JavaScript and CSS. Browser, server, OS – we cover it all.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://cascadiafest.org" # the base hostname & protocol for your site
+url: "http://news.cascadiafest.org" # the base hostname & protocol for your site
 twitter_username: cascadiajs
 github_username:  cascadiajs
 
