@@ -3,7 +3,7 @@ permalink: /2016/posts/list.json
 ---
 
 [
-{% for post in site.categories.cascadia-2016 %}
+{% for post in site.categories.2016 %}
     {
       "title": "{{ post.title }}",
       "url": "{{ post.url }}",

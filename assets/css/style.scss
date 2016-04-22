@@ -1,0 +1,70 @@
+---
+# Main stylesheet
+---
+
+@charset "utf-8";
+
+$green-dark: #0b2c00 !default;
+$blue-dark: #1c2e4c !default;
+
+$green-medium: #33a143 !default;
+$blue-medium: $blue-dark !default;
+
+$green-light: $green-medium !default;
+$blue-light: #008cff !default;
+
+$css-purple: rebeccapurple #639 !default;
+$node-green: #43853d !default;
+$js-yellow: #f7df1e !default;
+
+$navbar-default-bg: $green-dark;
+$navbar-default-brand-color: white;
+$navbar-default-link-color: white;
+$navbar-default-link-hover-color: white;
+$navbar-margin-bottom: 0;
+$navbar-default-border: transparent;
+$navbar-default-link-active-color: white;
+$navbar-default-link-active-bg: lighten($green-dark, 10%);
+
+@import '_bootstrap/_bootstrap';
+
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+main {
+	flex: 1;
+}
+
+.navbar {
+	border-radius: 0;
+}
+
+.thin {
+	font-weight: normal;
+}
+
+.page-title {
+	border-bottom: 1px solid currentColor;
+}
+
+.post-list {
+	list-style: none;
+	padding: 0;
+
+	li {
+		padding: 1em 0;
+		border-bottom: 1px solid silver;
+	}
+
+	h3 {
+		margin-top: 0;
+		margin-bottom: .25em;
+	}
+}
+
+
+@import '_cascadia/hero.scss';
+@import '_cascadia/footer.scss';

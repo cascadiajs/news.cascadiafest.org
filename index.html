@@ -2,26 +2,50 @@
 layout: default
 ---
 
-<div class="container-fluid">
-  <div class="row">
-    <div class="col-xs-12">
-      <h1 class="page-heading">Posts</h1>
+<div class="content" id="hero">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-xs-12 text-center">
+        <h1>Cascadia<span class="thin">FEST</span></h1>
 
-      <ul class="post-list">
-        {% for post in site.posts %}
-          <li>
-            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <p class="lead">{{ site.description }}</p>
 
-            <h2>
-              <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-            </h2>
-          </li>
-        {% endfor %}
-      </ul>
-
-      <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
+        <img class="tree fill-current" src="/assets/img/tree.svg" alt="" />
+      </div>
     </div>
   </div>
+</div>
 
+<div class="content">
+  <div class="container-fluid">
+    <div class="row">
+
+      <div class="col-xs-12">
+        <h1 class="page-title">Latest News</h1>
+
+        <ul class="post-list">
+          {% for post in site.posts %}
+            <li class="{% for c in post.categories %}post-cat-{{c}}{% endfor %}">
+              <h3>
+                <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+              </h3>
+
+              <p class="post-meta">
+                <span class="date">{{ post.date | date: "%b %-d, %Y" }}</span>
+                {% for category in post.categories %}
+                  <a href="/{{ category }}/posts/" class="btn btn-xs btn-default">{{ category }}</a>
+                {% endfor %}
+              </p>
+
+              {% if post.abstract %}
+              <p class="lead">{{ post.abstract }}</p>
+              {% endif %}
+            </li>
+          {% endfor %}
+        </ul>
+
+      </div>
+    </div>
+
+  </div>
 </div>
