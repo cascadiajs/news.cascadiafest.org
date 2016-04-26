@@ -5,12 +5,11 @@ install:
   - rvm install 2.1
   - gem install bundler
   - bundle install
-  - bundle show jekyll
 deploy:
   -
     skip_cleanup: true
     provider: script
-    script: npm run stage
+    script: ./scripts/stage.sh
     on:
       branch: master
 # notifications:

@@ -11,9 +11,7 @@
     "test": "",
     "start": "jekyll serve --watch",
     "build": "jekyll build",
-    "predeploy": "npm run build",
     "deploy": "surge -p ./_site -d news.cascadiafest.org",
-    "prestage": "npm run build",
     "stage": "surge -p ./_site -d cascadianews-stage.surge.sh"
   },
   "dependencies": {}
