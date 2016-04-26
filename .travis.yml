@@ -1,9 +1,10 @@
 language: node_js
 node_js:
   - 4.2
-rvm:
-  - 2.1
-install: gem install bundler && bundle install
+install:
+  - rvm install 2.1
+  - gem install bundler
+  - bundle install
 deploy:
   -
     skip_cleanup: true
@@ -11,5 +12,5 @@ deploy:
     script: npm run stage
     on:
       branch: master
-notifications:
-  slack: cascadiafest:upIkrnH6MWQ3K75VTBBrFkkx
+# notifications:
+#   slack: cascadiafest:upIkrnH6MWQ3K75VTBBrFkkx
