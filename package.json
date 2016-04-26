@@ -14,5 +14,7 @@
     "deploy-prod": "surge -p ./_site -d news.cascadiafest.org",
     "deploy-stage": "surge -p ./_site -d cascadianews-stage.surge.sh"
   },
-  "dependencies": {}
+  "dependencies": {
+    "surge": "^0.17.7"
+  }
 }
