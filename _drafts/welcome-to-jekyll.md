@@ -1,7 +1,6 @@
 ---
 layout: 2016/post
 title:  "Welcome to Jekyll!"
-date:   2016-03-31 16:10:00 -0700
 categories: '2016'
 ---
 
