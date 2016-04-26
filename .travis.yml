@@ -1,7 +1,7 @@
 language: node_js
 node_js:
   - 4.2
-install: gem install
+install: gem install bundler && bundle install
 deploy:
   -
     skip_cleanup: true
