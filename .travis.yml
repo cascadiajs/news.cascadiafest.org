@@ -15,6 +15,6 @@ deploy:
     on:
       branch: master
 after_success:
-  - test $TRAVIS_PULL_REQUEST && npm run deploy-pr -- --domain pr-$TRAVIS_PULL_REQUEST.news.cascadiafest.surge.sh
-# notifications:
-#   slack: cascadiafest:upIkrnH6MWQ3K75VTBBrFkkx
+  - $TRAVIS_PULL_REQUEST && npm run deploy-pr -- --domain pr-$TRAVIS_PULL_REQUEST.news.cascadiafest.surge.sh
+notifications:
+  slack: cascadiafest:upIkrnH6MWQ3K75VTBBrFkkx
