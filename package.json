@@ -1,0 +1,20 @@
+{
+  "name": "news.cascadiafest.org",
+  "version": "1.0.0",
+  "description": "News website for CascadiaFEST",
+  "homepage": "news.cascadiafest.org",
+  "repository": "git@github.com:cascadiajs/news.cascadiafest.org.git",
+  "engines": {
+    "node": "~4.2.0"
+  },
+  "scripts": {
+    "test": "",
+    "start": "jekyll serve --watch",
+    "build": "jekyll build",
+    "predeploy": "npm run build",
+    "deploy": "surge -p ./_site -d news.cascadiafest.org",
+    "prestage": "npm run build",
+    "stage": "surge -p ./_site -d cascadianews-stage.surge.sh"
+  },
+  "dependencies": {}
+}
