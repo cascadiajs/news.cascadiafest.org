@@ -6,13 +6,15 @@ install:
   - gem install jekyll
   - npm install
 script:
-  - jekyll build
+  - npm run build
 deploy:
   -
     skip_cleanup: true
     provider: script
-    script: npm run deploy-stage
+    script: npm run deploy-prod
     on:
       branch: master
+after_success:
+  - test $TRAVIS_PULL_REQUEST && npm run deploy-pr -- --domain pr-$TRAVIS_PULL_REQUEST.news.cascadiafest.surge.sh
 # notifications:
 #   slack: cascadiafest:upIkrnH6MWQ3K75VTBBrFkkx
