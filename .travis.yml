@@ -3,8 +3,10 @@ node_js:
   - 4.2
 install:
   - rvm install 2.1
-  - gem install bundler
-  - bundle install
+  - gem install jekyll
+  - npm install
+script:
+  - jekyll build
 deploy:
   -
     skip_cleanup: true
