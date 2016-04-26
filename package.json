@@ -2,7 +2,7 @@
   "name": "news.cascadiafest.org",
   "version": "1.0.0",
   "description": "News website for CascadiaFEST",
-  "homepage": "news.cascadiafest.org",
+  "homepage": "http://news.cascadiafest.org",
   "repository": "git@github.com:cascadiajs/news.cascadiafest.org.git",
   "engines": {
     "node": "~4.2.0"
