@@ -1,0 +1,52 @@
+<nav class="news-header content">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-xs-12">
+        <p><a href="/">CascadiaFEST</a></p>
+        {% for node in site.pages %}
+          {% if node.topnav %}
+          <p>
+            <a href="{{ node.url | prepend: site.baseurl }}">{{ node.title }}</a>
+          </p>
+          {% endif %}
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</nav>
+
+<nav id="navigation">
+  <div class="container">
+    <div class="row">
+
+      <div class="col-xs-2 col-md-1">
+        <a href="/" class="tree-icon"><img src="/assets/2016/img/logos/tree-icon.svg" alt="CascadiaFEST Tree Icon"><span class="text-hide">CascadiaFEST</span></a>
+      </div>
+      <div class="col-xs-10 col-md-11">
+        <ul class="nav nav-pills">
+          <li class="nav-item">
+            <a href="//2016.cascadiafest.org" class="nav-link">CascadiaFEST 2016</a>
+          </li>
+          <!--<li class="nav-item">
+            <a href="#" class="nav-link">Speakers</a>
+          </li>
+          <li class="nav-item">
+            <a href="#" class="nav-link">Venue</a>
+          </li>
+          <li class="nav-item">
+            <a href="#" class="nav-link">Travel</a>
+          </li>
+          <li class="nav-item">
+            <a href="#" class="nav-link">News</a>
+          </li>-->
+          <li class="nav-item">
+            <a href="https://ti.to/event-loop/cascadiafest-2016/" class="nav-link">Purchase Tickets <i class="fa fa-ticket"></i></a>
+          </li>
+
+        </ul>
+
+      </div>
+
+    </div>
+  </div>
+</nav>

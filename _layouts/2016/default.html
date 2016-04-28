@@ -1,18 +1,14 @@
-<!DOCTYPE html>
-<html>
+<!doctype html>
+<html class="no-js" lang="">
+    {% include 2016/head.html %}
 
-  {% include head.html %}
+    <body class="{{ page.bodyClass }}">
+        {% include 2016/header.html %}
 
-  <body class="{{ page.bodyClass }}">
+        <main>
+          {{ content }}
+        </main>
 
-    {% include header.html %}
-
-    <main>
-      {{ content }}
-    </main>
-
-    {% include footer.html %}
-
-  </body>
-
+        {% include 2016/footer.html %}
+    </body>
 </html>
