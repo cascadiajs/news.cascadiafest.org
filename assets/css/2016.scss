@@ -4,7 +4,20 @@
 
 @charset "utf-8";
 
-@import '_bootstrap/_bootstrap';
+.post-list {
+    list-style: none;
+    padding: 0;
+
+    li {
+        padding: 1em 0;
+        border-bottom: 1px solid silver;
+    }
+
+    h3 {
+        margin-top: 0;
+        margin-bottom: .25em;
+    }
+}
 
 .navbar {
 	border-radius: 0;

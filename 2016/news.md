@@ -14,7 +14,7 @@ permalink: /2016/news/
       <p class="post-meta">
         <span class="date">{{ post.date | date: "%b %-d, %Y" }}</span>
         {% for category in post.categories %}
-          <a href="/{{ category }}/posts/" class="btn btn-xs btn-default">{{ category }}</a>
+          <a href="/{{ category }}/news/" class="btn btn-xs btn-default">{{ category }}</a>
         {% endfor %}
       </p>
 
