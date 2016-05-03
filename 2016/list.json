@@ -5,6 +5,7 @@ permalink: /2016/news/list.json
 [{% for post in site.categories.2016 %}
     {
       "title": "{{ post.title }}",
+      "host": "{{ site.url }}",
       "url": "{{ post.url }}",
       "date": "{{ post.date }}",
       "abstract": "{{ post.abstract | escape }}"
