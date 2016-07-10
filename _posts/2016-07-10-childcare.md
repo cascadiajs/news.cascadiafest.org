@@ -1,4 +1,9 @@
-## Child Care at Semiahmoo Resort
+---
+layout: 2016/post
+title:  "Child Care at Semiahmoo Resort"
+date:   2016-07-10 09:00:00
+categories: '2016'
+---
 
 We are excited to provide affordable child care for parents and guardians attending CascadiaFest. Please read below for information on the provider, the costs and how to sign-up!
 
