@@ -26,7 +26,7 @@ Child care will be available every day of the conference (August 3-5) from 9am -
 
 ### How to RSVP
 
-If you would like to reserve a childcare slot at CascadiaFest, please email Stephanie Michael (stephanie@bigtimekidcare.com) **no later than Friday, July 22nd**. We cannot accommodate walk-ins, so please make sure you're registered prior to the deadline. Stephanie will need the following information from you:
+If you would like to reserve a childcare slot at CascadiaFest, please email Stephanie Michael ([stephanie@bigtimekidcare.com](mailto:stephanie@bigtimekidcare.com)) **no later than Friday, July 22nd**. We cannot accommodate walk-ins, so please make sure you're registered prior to the deadline. Stephanie will need the following information from you:
 
 * Name and age of each child.
 * A phone number for you.
