@@ -1,3 +1,10 @@
+---
+layout: 2016/post
+title:  "Friends and Family Track"
+date:   2016-07-14 09:00:00
+categories: '2016'
+---
+
 ## Friends and Family Track
 
 Back by popular demand! Please bear with us as we work to make CascadiaFest fun for the whole family, and feel free to give us feedback; that way, anything we miss this year can hopefully be added next time!
