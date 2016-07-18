@@ -18,8 +18,8 @@ But in addition to the amazing amenities available on site, you may want to meet
 ### Friends and Family Meal Ticket 
 
 * Adult: $200, Child - 12 & Under: $120
-* [Buy a Friends and Family Meal Adult Ticket](add link here)
-* [Buy a Friends and Family Meal Child 12 & Under Ticket](add link here)
+* [Buy a Friends and Family Meal Adult Ticket](https://ti.to/event-loop/cascadiafest-2016/with/7b8oz80ayug)
+* [Buy a Friends and Family Meal Child 12 & Under Ticket](https://ti.to/event-loop/cascadiafest-2016/with/56kbgw6evgk)
 
 In addition to the activities listed below, friends and family may want to join the CascadiaFest attendees for meals. If that’s you, be sure to purchase a Meal Ticket. The Meal Ticket will provide breakfast/lunch/dinner and (for adults) access to the evening event during each of the 3 days of the conference.
 
