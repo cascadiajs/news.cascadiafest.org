@@ -11,9 +11,9 @@ categories: '2016'
 ### Single Page App & Front-end JavaScript Performance & Troubleshoot 101 - Sponsored by New Relic
 
 * When: Wednesday, August 3rd @ 9:30am
-* Instructor: ?
+* Instructor: TBD
 * Maximum Capacity: 50
-* Prerequisites:?
+* Prerequisites: Laptop
 
 [[RSVP for free](https://ti.to/event-loop/cascadiafest-2016/with/hhjzlnal5pw)]
 
@@ -27,7 +27,7 @@ Running Angular? React? Or maybe even a custom JavaScript framework? Learn how t
 * When: Wednesday, August 3 @ 2pm
 * Instructor: Joe Sepi ([@joe_sepi](https://twitter.com/joe_sepi)) Lead Developer Evangelist for IBM/StrongLoop focused on Node.js and Loopback
 * Maximum Capacity: 50
-* Prerequisites: Only prerequisite is Node.js
+* Prerequisites: Laptop, Node.js
 
 [[RSVP for free](https://ti.to/event-loop/cascadiafest-2016/with/qj4farpcqxu)]
 
@@ -38,9 +38,9 @@ We all have a million ideas that may either scratch a particular itch or be the 
 ### NodeJS Application Performance & Troubleshooting 101 - Sponsored by New Relic
 
 * When: Thursday, August 4th @ 9:30am
-* Instructor: ?
+* Instructor: TBD
 * Maximum Capacity: 50
-* Prerequisites:?
+* Prerequisites: Laptop, Node.js
 
 [[RSVP for free](https://ti.to/event-loop/cascadiafest-2016/with/bxd-guch-jo)]
 
@@ -55,7 +55,7 @@ Learn how to troubleshoot app performance like a pro with New Relic APM. We’ll
 * When: Thursday, August 4th @ 2pm
 * Instructors: Sam Richard | UI Architect - IBM Watson, Robin Cannon | Design Manager - IBM Bluemix
 * Maximum Capacity: 50
-* Prerequisites: ?
+* Prerequisites: Laptop
 
 [[RSVP for free](https://ti.to/event-loop/cascadiafest-2016/with/eso5lyaw4x4)]
 
@@ -70,7 +70,7 @@ A conference app can be more than just a listing of scheduled sessions and speak
 * When: Friday, August 5th @ 9:30am
 * Instructor: Damon Deaner | Director of Talent - IBM Design, Amber Atkins | Head of Global Recruiting - IBM Design
 * Maximum Capacity: 50
-* Prerequisites: ?
+* Prerequisites: Laptop
 
 [[RSVP for free](https://ti.to/event-loop/cascadiafest-2016/with/8vfpsi22adm)]
 
