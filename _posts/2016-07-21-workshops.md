@@ -76,7 +76,7 @@ A conference app can be more than just a listing of scheduled sessions and speak
 
 "Portfolio first" is becoming more and more prevalent when a professional designer or developer is looking for a new job in tech. This workshop is focused on how to envision a better way to prepare and present a portfolio of work you can be proud of, including ways to showcase code you've crafted. Using IBM Design Thinking you will be challenged to think of the user first in designing a memorable experience into your body of work and present it in a delightful way. Be prepared to interact, collaborate, and think about what you can be doing to land your dream gig in this workshop.
 
-### IoT && You - Emily Rose
+### IoT && You - Sponsored by Losant
 
 * When: Friday, August 5th @ 2pm
 * Instructor: Emily Rose | Lead Developer Evangelist - Salesforce
