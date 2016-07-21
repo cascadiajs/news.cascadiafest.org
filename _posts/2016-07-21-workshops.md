@@ -15,7 +15,7 @@ categories: '2016'
 * Maximum Capacity: 50
 * Prerequisites:?
 
-[[RSVP for free]()]
+[[RSVP for free](https://ti.to/event-loop/cascadiafest-2016/with/hhjzlnal5pw)]
 
 Running Angular? React? Or maybe even a custom JavaScript framework? Learn how to monitor and troubleshoot your front-end experience with New Relic Browser, no matter what framework you use. We’ll show you how to…
 * Identify front-end errors that could be breaking your user experience
@@ -42,7 +42,7 @@ We all have a million ideas that may either scratch a particular itch or be the 
 * Maximum Capacity: 50
 * Prerequisites:?
 
-[[RSVP for free]()]
+[[RSVP for free](https://ti.to/event-loop/cascadiafest-2016/with/bxd-guch-jo)]
 
 Learn how to troubleshoot app performance like a pro with New Relic APM. We’ll be going through a Node app and showing you how to make run even better. We’ll show you how to…
 * Track down and fix errors through your full JavaScript application stack 
