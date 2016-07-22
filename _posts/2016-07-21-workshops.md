@@ -10,7 +10,7 @@ categories: '2016'
 
 ### Single Page App & Front-end JavaScript Performance & Troubleshoot 101 - Sponsored by New Relic
 
-![New Relic Logo](http://2016.cascadiafest.org/assets/img/sponsors/newrelic.svg)
+<img src="http://2016.cascadiafest.org/assets/img/sponsors/newrelic.svg" alt="New Relic Logo" width="300">
 
 * When: Wednesday, August 3rd @ 9:30am
 * Instructor: TBD
@@ -27,7 +27,7 @@ Running Angular? React? Or maybe even a custom JavaScript framework? Learn how t
 
 ### From Zero to Awesome API-driven Apps in 9 Easy Steps - Sponsored by StrongLoop
 
-![StrongLoop Logo](http://2016.cascadiafest.org/assets/img/sponsors/strongloop.svg)
+<img src="http://2016.cascadiafest.org/assets/img/sponsors/strongloop.svg" alt="StrongLoop Logo" width="300">
 
 * When: Wednesday, August 3 @ 2pm
 * Instructor: Joe Sepi ([@joe_sepi](https://twitter.com/joe_sepi)) Lead Developer Evangelist for IBM/StrongLoop focused on Node.js and Loopback
@@ -42,7 +42,8 @@ We all have a million ideas that may either scratch a particular itch or be the 
 
 ### NodeJS Application Performance & Troubleshooting 101 - Sponsored by New Relic
 
-![New Relic Logo](http://2016.cascadiafest.org/assets/img/sponsors/newrelic.svg)
+
+<img src="http://2016.cascadiafest.org/assets/img/sponsors/newrelic.svg" alt="New Relic Logo" width="300">
 
 * When: Thursday, August 4th @ 9:30am
 * Instructor: TBD
@@ -60,7 +61,7 @@ Learn how to troubleshoot app performance like a pro with New Relic APM. We’ll
 
 ### Outthink the Conference Experience - IBM Hack Event
 
-![IBM Design Logo](http://2016.cascadiafest.org/assets/img/sponsors/ibm-design.svg)
+<img src="http://2016.cascadiafest.org/assets/img/sponsors/ibm-design.svg" alt="IBM Design Logo" width="300">
 
 * When: Thursday, August 4th @ 2pm
 * Instructors: Sam Richard ~ UI Architect - IBM Watson, Robin Cannon ~ Design Manager - IBM Bluemix
@@ -77,7 +78,7 @@ A conference app can be more than just a listing of scheduled sessions and speak
 
 ### Portfolio First - IBM Design Thinking Workshop
 
-![IBM Design Logo](http://2016.cascadiafest.org/assets/img/sponsors/ibm-design.svg)
+<img src="http://2016.cascadiafest.org/assets/img/sponsors/ibm-design.svg" alt="IBM Design Logo" width="300">
 
 * When: Friday, August 5th @ 9:30am
 * Instructor: Damon Deaner ~ Director of Talent - IBM Design, Amber Atkins ~ Head of Global Recruiting - IBM Design
