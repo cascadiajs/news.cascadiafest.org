@@ -6,7 +6,7 @@ categories: '2016'
 ---
 # CascadiaFest 2016 Workshop Lineup
 
-## CSS Day Workshops
+## August 3rd
 
 ### Single Page App & Front-end JavaScript Performance & Troubleshoot 101 - Sponsored by New Relic
 
@@ -38,7 +38,7 @@ Running Angular? React? Or maybe even a custom JavaScript framework? Learn how t
 
 We all have a million ideas that may either scratch a particular itch or be the “next Pokemon Go.” Together, let’s work through how we can use an API-driven approach to take our idea from nothing to amazing. We’ll assume you have some web experience, but other than that, we will start at the beginning. You’ll learn: why you may want an API and what it means to make it public; how to design and plan your model; and then how to put it all together: create, run, manage, secure and deploy your APIs. With the power of LoopBack, you can create an API layer in moments, but it’s how you make it awesome that counts.
 
-## Browser Day Workshops
+## August 4th
 
 ### NodeJS Application Performance & Troubleshooting 101 - Sponsored by New Relic
 
@@ -74,7 +74,7 @@ Use the cognitive computing power of IBM Watson to improve the conference experi
 
 A conference app can be more than just a listing of scheduled sessions and speakers for you to reference. Utilizing IBM Watson's cognitive APIs, we challenge you to come up with better conference experience. How could you improve the conference with a custom virtual assistant? What would happen if you could recognize what's in an image a user uploads? Come by yourself, come with a team, see what kind of new experiences you can create in just a couple of hours.
 
-## Server Day Workshops
+## August 5th
 
 ### Portfolio First - IBM Design Thinking Workshop
 
