@@ -48,7 +48,7 @@ We’ll spend 4 hours out exploring and return to the Plover Dock of Semiahmoo R
 
 ### Friday, August 5 - Winery & Spirits Tour 
 
-* Time: 12:30 PM - 4:30 PM
+* Time: 1:30 PM - 5:30 PM
 * $30
 * [Buy a Winery & Spirits Tour Ticket](https://ti.to/event-loop/cascadiafest-2016/with/5igmigwlmca)
 
